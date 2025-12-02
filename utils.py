@@ -1,0 +1,13 @@
+get_train_data
+get_test_data
+get_field_data
+CNNClassifier
+rotate
+scale
+shear
+flip_left_right
+flip_up_down
+remove_color
+combine_data
+plot_one_image
+monitor
